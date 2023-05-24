@@ -18,7 +18,7 @@ pip install chatbotAI
 
 install from github:
 ```sh
-git clone https://github.com/ahmadfaizalbh/Chatbot.git
+git clone https://github.com/OriginalModo/ChatBOT_TRY_COPY/tree/master/Chatbot-master
 cd Chatbot
 python setup.py install
 ```
